@@ -8,10 +8,10 @@
 ### 💡 Skills & Tools
 
 #### 🖥️ Languages
-- Python, JavaScript, HTML, CSS, SQL
+- Python, JavaScript, HTML, CSS, SQL, php
 
 #### ⚙️ Libraries & Frameworks
-- React (Frontend), Node.js, Express, Django (Backend)
+- React (Frontend), Node.js, Express, Django (Backend), Laravel
 
 #### 🗄️ Databases
 - MongoDB, PostgreSQL, MySQL
