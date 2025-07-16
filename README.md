@@ -30,7 +30,7 @@
 
 ### 📫 Let's Connect
 - 📧 Email: prerak9350@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/prerak-shah-1a6296273/
+- 💼 LinkedIn: [PrerakShah](https://www.linkedin.com/in/prerak-shah-1a6296273/)
 
 > 💬 *"Code is like humour. When you have to explain it, it’s bad."* – Cory House
 
