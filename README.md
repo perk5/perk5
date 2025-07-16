@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🧑‍💻 I'm a full-stack developer passionate about building real-world solutions using clean, efficient code.
 - 🌏 Based in Australia | Open to global opportunities.
-- 💼 Currently working on exciting projects with a focus on **user experience** and **scalable backend systems**.
+- 💼 Currently working on [LMS](https://learning-management-system-frontend-beta.vercel.app/) with a focus on **user experience** and **scalable backend systems**.
 
 ### 💡 Skills & Tools
 
