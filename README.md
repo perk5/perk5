@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Prerak Shah
 
 ### 🚀 About Me
-- 🧑‍💻 I'm a full-stack developer passionate about building real-world solutions using clean, efficient code.
+- 🧑‍💻 I'm a full-stack and UX developer passionate about building real-world solutions using clean, efficient code.
+- 🔄 I follow Human-Centred Design (HCD) principles in every stage of my work.
 - 🌏 Based in Australia | Open to global opportunities.
 - 💼 Currently working on [LMS](https://learning-management-system-frontend-beta.vercel.app/) with a focus on **user experience** and **scalable backend systems**.
 
@@ -11,7 +12,7 @@
 - Python, JavaScript, HTML, CSS, SQL, php
 
 #### ⚙️ Libraries & Frameworks
-- React (Frontend), Node.js, Express, Django (Backend), Laravel
+- React (Frontend), Vue Js, Node.js, Express, Django (Backend), Laravel
 
 #### 🗄️ Databases
 - MongoDB, PostgreSQL, MySQL
