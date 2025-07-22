@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Prerak Shah
+## Hi there 👋 I'm Prerak :)
 
 ### 🚀 About Me
 - 🧑‍💻 I'm a full-stack and UX developer passionate about building real-world solutions using clean, efficient code.
